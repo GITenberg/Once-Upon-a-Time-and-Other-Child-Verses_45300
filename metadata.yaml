@@ -1,0 +1,42 @@
+_repo: Once-Upon-a-Time-and-Other-Child-Verses_45300
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Barry, Etheldred B. (Etheldred Breeze)
+    aliases:
+    - Barry, E. B. (Etheldred Breeze)
+    - Barry, Ethelred Breeze
+    - Barry, Etheldred Breeze
+    birthdate: 1870
+    gutenberg_agent_id: '6348'
+    url: http://www.gutenberg.org/2009/agents/6348
+covers:
+- cover_type: archival
+  image_path: 45300-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Freeman, Mary Eleanor Wilkins
+    aliases:
+    - Wilkins, Mary E. (Mary Eleanor)
+    - Freeman, Mary E. Wilkins (Mary Eleanor Wilkins)
+    - Wilkins, Mary Eleanor
+    - Wilkins, Mary Ella
+    birthdate: 1852
+    deathdate: 1930
+    gutenberg_agent_id: '495'
+    url: http://www.gutenberg.org/2009/agents/495
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Eleanor_Wilkins_Freeman
+description: ''
+gutenberg_issued: '2014-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45300'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s poetry'
+- !lcc 'PZ'
+title: Once Upon a Time, and Other Child-Verses
+url: http://www.gutenberg.org/ebooks/45300
